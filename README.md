@@ -5,5 +5,5 @@
 </header>
 
 <h2>
-    <img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/?username=robhageboeck&theme=dracula&count_private=true" /> <img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robhageboeck" />
+    <img align="center" style="width: 75%" src="https://github-readme-stats.vercel.app/api/?username=robhageboeck&theme=dracula&count_private=true" />
 </h2>
